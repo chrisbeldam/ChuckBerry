@@ -11,18 +11,6 @@ gulp.task('styles', function() {
         .pipe(gulp.dest('./css/'))
 });
 
-gulp.task('businesses', function() {
-    gulp.src('sass/businesses.scss')
-        .pipe(sass().on('error', sass.logError))
-        .pipe(gulp.dest('./css/'))
-});
-
-gulp.task('trades', function() {
-    gulp.src('sass/trades.scss')
-        .pipe(sass().on('error', sass.logError))
-        .pipe(gulp.dest('./css/'))
-});
-
 //Watch task
 gulp.task('default',function() {
     gulp.watch('sass/**/*.scss',['styles']);
