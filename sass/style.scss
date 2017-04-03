@@ -108,6 +108,12 @@ html {
 
     h1 {
       color:$textcolour;
+      margin-bottom:20px;
+    }
+
+    h3 {
+      color:$textcolour;
+      margin-bottom:20px;
     }
 
     p {
@@ -132,8 +138,25 @@ html {
     background: $tradesbg;
     color:black;
 
+    .esguitar {
+      margin-top: 20px;
+      margin-bottom: 20px;
+
+    }
+
+    img {
+      display: block;
+      margin: 0 auto;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      padding-bottom: 20px;
+    }
 
     h1 {
+      color:black;
+    }
+
+    h3 {
       color:black;
     }
 
@@ -172,6 +195,10 @@ html {
 
     .contact-header {
       font-size:60px;
+    }
+    .externalLink {
+      color:white;
+      text-decoration: underline;
     }
 }
 

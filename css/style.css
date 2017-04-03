@@ -69,7 +69,11 @@ html {
   text-align: center;
   background: #000000; }
   .song-section h1 {
-    color: white; }
+    color: white;
+    margin-bottom: 20px; }
+  .song-section h3 {
+    color: white;
+    margin-bottom: 20px; }
   .song-section p {
     color: white; }
   .song-section #shops-btn {
@@ -85,7 +89,18 @@ html {
   text-align: center;
   background: #ffffff;
   color: black; }
+  .guitar-section .esguitar {
+    margin-top: 20px;
+    margin-bottom: 20px; }
+  .guitar-section img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px; }
   .guitar-section h1 {
+    color: black; }
+  .guitar-section h3 {
     color: black; }
   .guitar-section p {
     color: black; }
@@ -110,6 +125,9 @@ html {
     color: white; }
   .contact-section .contact-header {
     font-size: 60px; }
+  .contact-section .externalLink {
+    color: white;
+    text-decoration: underline; }
 
 .email {
   color: white;
