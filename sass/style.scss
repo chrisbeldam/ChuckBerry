@@ -1,7 +1,7 @@
 
-$contactbg: #2980b9;
+$contactbg: #000000;
 $introbg: #ffffff;
-$shopsbg: #337ab7;
+$shopsbg: #000000;
 $tradesbg: #ffffff;
 $textcolour: white;
 
@@ -124,7 +124,7 @@ html {
     }
 }
 
-.trades-section {
+.guitar-section {
     height: auto;
     padding-top: 5%;
     padding-bottom:5%;
@@ -172,13 +172,6 @@ html {
 
     .contact-header {
       font-size:60px;
-    }
-
-    .externalLink {
-
-        color:white;
-        text-decoration:underline;
-
     }
 }
 
