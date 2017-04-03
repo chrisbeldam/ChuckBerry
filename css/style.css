@@ -78,18 +78,18 @@ html {
   .song-section #second-btn {
     margin-top: 40px; }
 
-.trades-section {
+.guitar-section {
   height: auto;
   padding-top: 5%;
   padding-bottom: 5%;
   text-align: center;
   background: #ffffff;
   color: black; }
-  .trades-section h1 {
+  .guitar-section h1 {
     color: black; }
-  .trades-section p {
+  .guitar-section p {
     color: black; }
-  .trades-section #third-btn {
+  .guitar-section #third-btn {
     margin-top: 40px; }
 
 .contact-section {
@@ -110,9 +110,6 @@ html {
     color: white; }
   .contact-section .contact-header {
     font-size: 60px; }
-  .contact-section .externalLink {
-    color: white;
-    text-decoration: underline; }
 
 .email {
   color: white;
