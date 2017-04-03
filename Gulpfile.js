@@ -32,4 +32,4 @@ gulp.task('cssnano', function(){
 });
 
 //Run all of the tasks in order
-gulp.task('build', gulpSequence('styles', 'cssnano', 'compress', 'trades', 'businesses'));
+gulp.task('build', gulpSequence('styles', 'cssnano', 'compress'));

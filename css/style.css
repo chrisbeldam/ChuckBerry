@@ -62,20 +62,20 @@ html {
     -webkit-animation-delay: 3s;
     -webkit-animation-duration: 2s; }
 
-.shop-section {
+.song-section {
   height: auto;
   padding-top: 5%;
   padding-bottom: 5%;
   text-align: center;
   background: #337ab7; }
-  .shop-section h1 {
+  .song-section h1 {
     color: white; }
-  .shop-section p {
+  .song-section p {
     color: white; }
-  .shop-section #shops-btn {
+  .song-section #shops-btn {
     margin-top: 40px;
     margin-bottom: 40px; }
-  .shop-section #second-btn {
+  .song-section #second-btn {
     margin-top: 40px; }
 
 .trades-section {
@@ -113,42 +113,6 @@ html {
   .contact-section .externalLink {
     color: white;
     text-decoration: underline; }
-
-.largeBusinesses-section {
-  height: auto;
-  padding-top: 5%;
-  padding-bottom: 5%;
-  background: #337ab7; }
-  .largeBusinesses-section h1 {
-    text-align: center;
-    color: white;
-    margin-bottom: 20px;
-    margin-top: 20px; }
-  .largeBusinesses-section h2 {
-    text-align: center;
-    color: white; }
-  .largeBusinesses-section h3 {
-    text-align: center;
-    color: white; }
-  .largeBusinesses-section h5 {
-    color: white; }
-  .largeBusinesses-section p {
-    text-align: center;
-    color: white; }
-  .largeBusinesses-section a {
-    color: white;
-    text-align: center;
-    display: block; }
-  .largeBusinesses-section ul li {
-    color: white;
-    display: block;
-    float: inherit; }
-
-.smallBusinesses-section h1 {
-  text-align: center; }
-
-.smallBusinesses-section p {
-  text-align: center; }
 
 .email {
   color: white;

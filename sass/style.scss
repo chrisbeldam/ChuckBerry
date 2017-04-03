@@ -98,7 +98,7 @@ html {
     }
 }
 
-.shop-section {
+.song-section {
     height: auto;
     padding-top: 5%;
     padding-bottom:5%;
@@ -181,67 +181,6 @@ html {
 
     }
 }
-
-.largeBusinesses-section {
-  height: auto;
-  padding-top: 5%;
-  padding-bottom:5%;
-  background:#337ab7;
-
-  h1 {
-    text-align: center;
-    color: $textcolour;
-    margin-bottom:20px;
-    margin-top: 20px;
-  }
-
-  h2 {
-    text-align: center;
-    color:$textcolour;
-  }
-
-  h3 {
-    text-align: center;
-    color: $textcolour;
-  }
-
-  h5 {
-    color:$textcolour;
-  }
-
-  p {
-    text-align: center;
-    color:white;
-  }
-  a{
-    color:white;
-    text-align: center;
-    display:block;
-  }
-
-  ul{
-    li {
-      color:white;
-      display: block;
-      float:inherit;
-    }
-  }
-
-
-}
-
-.smallBusinesses-section {
-
-  h1{
-    text-align: center;
-  }
-
-  p{
-    text-align: center;
-  }
-
-}
-
 
 .email{
   color:white;
